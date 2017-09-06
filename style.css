@@ -2,3 +2,22 @@ body {
   margin: 0;
   padding: 0;
 }
+
+
+    ol { font-family: sans-serif;
+        color: black;
+        font-style: oblique;
+        background-color: inherit;
+        align-self: flex-start;
+        letter-spacing: normal;
+        word-spacing: normal;
+        border-style: groove;
+        border-color: green;
+
+
+
+
+    }
+    li{text-decoration-color: white;
+   border-color: red;
+ }
